@@ -12,3 +12,7 @@ h1 {
 p {
     text-align: center;
 }
+
+#navlink-list-container li:hover{
+    text-decoration: underline;
+}
